@@ -1,0 +1,18 @@
+// teste de comentário
+
+// Variáveis
+// {posicao} {valor}
+DATA
+  128 10
+  129 25
+END
+
+// Instruções
+// {instrução} {valor (se necessário)}
+CODE
+  NOP
+  LDA 128
+  ADD 129
+  STA 130
+  HLT
+END
